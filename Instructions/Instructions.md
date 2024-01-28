@@ -6,7 +6,7 @@
 
 ![Capillary Bracket Assembly](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/CapillaryBracketAssembly.png)
 
-![Stripped down bracket](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/IMG_20230724_181349.jpg)
+
 
 [Install Software](../Python/) - Check this folder regularly. This is where experimental software will show up first.
 
