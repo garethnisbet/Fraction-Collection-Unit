@@ -4,7 +4,7 @@
 2. Download the [CAD Files](../CAD).
 3. Download [Cura](https://ultimaker.com/software/ultimaker-cura/) to slice the stl files and generate the G-code for printing.
 
-![Capillary Bracket Assembly](CapillaryBracketAssembly.png)
+![Capillary Bracket Assembly](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/CapillaryBracketAssembly.png)
 
 ![Stripped down bracket](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/IMG_20230724_181349.jpg)
 
