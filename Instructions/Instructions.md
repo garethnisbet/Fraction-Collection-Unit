@@ -4,11 +4,14 @@
 2. Download the [CAD Files](../CAD).
 3. Download [Cura](https://ultimaker.com/software/ultimaker-cura/) to slice the stl files and generate the G-code for printing.
 
+
+![Printable Parts List](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/PrintObjects.svg)
+
 ![Capillary Bracket Assembly](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/CapillaryBracketAssembly.png)
 
 
 
-[Install Software](../Python/) - Check this folder regularly. This is where experimental software will show up first.
+[Install Software](../Python/) - Copy python files into a folder and run GUI.py
 
 
 
