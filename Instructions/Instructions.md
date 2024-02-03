@@ -13,6 +13,8 @@ Assemble the Capillary Bracket
 
 ![Capillary Bracket Assembly](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/Assembly_P1.svg)
 
+![Bolt the capillary bracket to prin thead plate](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/Assembly_P2.png)
+
 
 
 [Install Software](../Python/) - Copy python files into a folder and run GUI.py
