@@ -13,10 +13,11 @@ Assemble the Capillary Bracket.
 
 ![Capillary Bracket Assembly](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/Assembly_P1.svg)
 
-Remove the print head and wiring (everything unplugs so no cutting is required). Bolt the capillary bracket to print head plate.
+Remove the print head and wiring (everything unplugs so no cutting is required). Remove the hotplate and wiring.
+![Remove print head and hotplate](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/Assembly_P2.svg)
+
+Bolt the capillary bracket to print head plate.
 ![Bolt the capillary bracket to prin thead plate](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/Assembly_P2.svg)
-
-
 
 [Install Software](../Python/) - Copy python files into a folder and run GUI.py.
 
