@@ -9,7 +9,7 @@
 
 Assemble the Capillary Bracket
 
-![Capillary Bracket Assembly](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/CapillaryBracketAssembly.png)
+![Capillary Bracket Assembly](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/Assembly_P1.svg)
 
 
 
