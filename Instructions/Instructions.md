@@ -9,16 +9,16 @@
 
 💡 **Note:** Once printing is complete, the print head is going to be removed from the printer so you might want to print a few spare sets before taking this step.
 
-Assemble the Capillary Bracket
+Assemble the Capillary Bracket.
 
 ![Capillary Bracket Assembly](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/Assembly_P1.svg)
 
-Bolt the capillary bracket to prin thead plate
+Remove the print head and wiring (everything unplugs so no cutting is required). Bolt the capillary bracket to print head plate.
 ![Bolt the capillary bracket to prin thead plate](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/Assembly_P2.svg)
 
 
 
-[Install Software](../Python/) - Copy python files into a folder and run GUI.py
+[Install Software](../Python/) - Copy python files into a folder and run GUI.py.
 
 
 
