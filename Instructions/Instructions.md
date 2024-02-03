@@ -7,6 +7,8 @@
 
 ![Printable Parts List](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/PrintObjects.svg)
 
+💡 **Note:** Once printing is complete, the print head is going to be removed from the printer so you might want to print a few spare sets before taking this step.
+
 Assemble the Capillary Bracket
 
 ![Capillary Bracket Assembly](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/Assembly_P1.svg)
