@@ -25,10 +25,15 @@ Bolt the base plate to the build platform.
 [Install Software](../Python/) - Copy python files into a folder on the Raspberry Pi and run GUI.py.
 
 ![Screen 1](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S1.png)
+
 Press the home button to home the unit.
+
 ![Screen 1b](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S1b.png)
+
 ![Screen 2](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S2.png)
+
 ![Screen 2b](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S2b.png)
+
 ![Screen 3](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S3.png)
 
 
