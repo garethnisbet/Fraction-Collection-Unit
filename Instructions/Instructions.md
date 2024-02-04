@@ -25,6 +25,7 @@ Bolt the base plate to the build platform.
 
 ![Bolt the capillary bracket to prin thead plate](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/Assembly_P4.svg)
 ---
+---
 [Install Software](../Python/) - Copy python files into a folder on the Raspberry Pi and run GUI.py.
 
 ![Screen 1](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S1.png)
