@@ -1,4 +1,5 @@
-## Instructions For Fraction Collection Unit
+## Instructions for Fraction Collection Unit
+---
 
 1. Build the Creality Ender 5 S1 3D Printer according to the instructions supplied with unit.
 
