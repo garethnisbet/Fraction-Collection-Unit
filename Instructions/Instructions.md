@@ -29,7 +29,13 @@ Bolt the base plate to the build platform.
 
 ![Screen 1](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S1.png)
 
-Press the home button to home the unit.
+. The home button homes the motors of the unit
+. The dottted grid is used to select the well type. Each type will only fit in the unit one way
+. The arrow buttons allow the stages to be jogged
+. The stop button is to cancel a motion
+. The play button will start the programmed sequence
+. The trigger button will start the programmed sequence once a TTL pulse is received
+. The save button will save the current position as the origin of the well unit (Note the depth will be relative to this origin)
 
 ![Screen 1b](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S1b.png)
 
