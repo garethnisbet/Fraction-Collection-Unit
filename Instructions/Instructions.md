@@ -14,12 +14,15 @@ Assemble the Capillary Bracket.
 ![Capillary Bracket Assembly](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/Assembly_P1.svg)
 
 Remove the print head hotplate and wiring (everything unplugs so no cutting is required).
+
 ![Remove print head and hotplate](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/Assembly_P2.svg)
 
 Bolt the capillary bracket to print head plate.
+
 ![Bolt the capillary bracket to prin thead plate](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/Assembly_P3.svg)
 
 Bolt the base plate to the build platform.
+
 ![Bolt the capillary bracket to prin thead plate](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/Assembly_P4.svg)
 ---
 [Install Software](../Python/) - Copy python files into a folder on the Raspberry Pi and run GUI.py.
