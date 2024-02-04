@@ -32,7 +32,7 @@ Bolt the base plate to the build platform.
 ---
 [Install Software](../Python/) - Copy python files into a folder on the Raspberry Pi and run GUI.py.
 
-![Screen 1](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S1.png)
+![Screen 1](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S1.svg)
 
 * The home button homes the motors of the unit
 * The dottted grid is used to select the well type. Each type will only fit in the unit one way
@@ -43,7 +43,7 @@ Bolt the base plate to the build platform.
 * The save button will save the current position as the origin of the well unit (Note the depth will be relative to this origin)
 * The gear button will take you to the settings page
 
-![Screen 2](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S2.png)
+![Screen 2](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S2.svg)
 
 * Pitch is the distance between the centre of two wells
 * Depth sets the depth the capillary will travel relative to the origin
@@ -51,7 +51,7 @@ Bolt the base plate to the build platform.
 * Dwell Time (Sweep) is the time the unit will hold between iterations
 * Speed sets the general travel speed of the unit
 
-![Screen 3](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S3.png)
+![Screen 3](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S3.svg)
 * Starting Well allows the user to choose a starting well other than the first well
 * Number of Wells allows the user to limit the number of wells in the sequence
 * Number of Iterations is the number of times the sequence is repeated 
