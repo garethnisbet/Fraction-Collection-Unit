@@ -44,12 +44,12 @@ Bolt the base plate to the build platform.
 * Depth sets the depth the capillary will travel relative to the origin
 * Dwell Time is the time the unit will hold the capillary in the well
 * Dwell Time (Sweep) is the time the unit will hold between iterations
-* Speed sets the general trabel speed of the unit
+* Speed sets the general travel speed of the unit
 
 ![Screen 3](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S3.png)
-* Starting Well allow the user to choose a starting well other than the first well
+* Starting Well allows the user to choose a starting well other than the first well
 * Number of Wells allows the user to limit the number of wells in the sequence
-* Number of Iterations is the number of time the sequence is repeated 
+* Number of Iterations is the number of times the sequence is repeated 
 
 ## Usage:
 1. Run the GUI.py file
