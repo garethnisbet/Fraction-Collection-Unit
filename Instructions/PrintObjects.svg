@@ -25,7 +25,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.75339413"
-     inkscape:cx="1027.3507"
+     inkscape:cx="1026.6871"
      inkscape:cy="460.5823"
      inkscape:window-width="3440"
      inkscape:window-height="1375"
@@ -124,7 +124,12 @@
          id="tspan3-9-7-9-3-6-7"
          style="fill:#f9f9f9;stroke-width:0.170562"
          x="18.754709"
-         y="258.34192">2 x Part_4_ScreenBracket.stl</tspan></text><image
+         y="258.34192">2 x Part_4_ScreenBracket.stl</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#f9f9f9;stroke-width:0.170562"
+         x="18.754709"
+         y="266.87"
+         id="tspan1">(Print pieces on their side)</tspan></text><image
        width="44.170494"
        height="49.547771"
        preserveAspectRatio="none"
