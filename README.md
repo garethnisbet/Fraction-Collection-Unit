@@ -5,4 +5,4 @@ Software and CAD files to build a fraction collection unit from a CREALITY Ender
 
 [CAD-Files](/CAD/STL/) - STL files to be printed.
 
-[Instructions](/Instructions/Instructions.md) - Follow the instructions detailed in the Instructions Manual
+[Instructions](/Instructions/Instructions.md) - Assembly and User Instructions

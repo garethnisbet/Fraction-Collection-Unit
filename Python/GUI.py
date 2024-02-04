@@ -195,7 +195,7 @@ MinusBlue = pygame.image.load(dirpath+'/Minus.png')
 PlusBlue = pygame.image.load(dirpath+'/Plus.png')
 FactoryReset = pygame.image.load(dirpath+'/FactoryReset.png')
 Plan = pygame.image.load(dirpath+'/Plan.png')
-pygame.display.set_caption("Player 1")
+pygame.display.set_caption("Fraction Collection Unit")
 
 #---------- Loop until the user clicks the close button ---------------#
 done = False
