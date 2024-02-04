@@ -18,7 +18,7 @@ Assemble the Capillary Bracket.
 
 ![Capillary Bracket Assembly](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/Assembly_P1.svg)
 
-Remove the print head hotplate and wiring (everything unplugs so no cutting is required).
+Remove the print head hotplate and wiring (everything unscrews or unplugs so no cutting is required).
 
 ![Remove print head and hotplate](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/Assembly_P2.svg)
 
