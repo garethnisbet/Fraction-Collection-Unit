@@ -1,6 +1,10 @@
 ## Instructions For Fraction Collection Unit
 
 1. Build the Creality Ender 5 S1 3D Printer according to the supplied instructions.
+
+![Creality Ender 5 S1](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/CREALITY_Ender_5_S1.svg)
+
+
 2. Download the [CAD Files](../CAD).
 3. Download [Cura](https://ultimaker.com/software/ultimaker-cura/) to slice the stl files and generate the G-code for printing.
 
