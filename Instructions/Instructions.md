@@ -1,5 +1,5 @@
 <p align="center">
-## Instructions for Fraction Collection Unit
+<b>Instructions for Fraction Collection Unit</b>
 </p>
 1. Build the Creality Ender 5 S1 3D Printer according to the instructions supplied with unit.
 
