@@ -36,15 +36,20 @@ Bolt the base plate to the build platform.
 * The play button will start the programmed sequence
 * The trigger button will start the programmed sequence once a TTL pulse is received
 * The save button will save the current position as the origin of the well unit (Note the depth will be relative to this origin)
-
-![Screen 1b](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S1b.png)
+* The gear button will take you to the settings page
 
 ![Screen 2](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S2.png)
 
-![Screen 2b](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S2b.png)
+* Pitch is the distance between the centre of two wells
+* Depth sets the depth the capillary will travel relative to the origin
+* Dwell Time is the time the unit will hold the capillary in the well
+* Dwell Time (Sweep) is the time the unit will hold between iterations
+* Speed sets the general trabel speed of the unit
 
 ![Screen 3](https://github.com/garethnisbet/Fraction-Collection-Unit/blob/main/Instructions/S3.png)
-
+* Starting Well allow the user to choose a starting well other than the first well
+* Number of Wells allows the user to limit the number of wells in the sequence
+* Number of Iterations is the number of time the sequence is repeated 
 
 ## Usage:
 1. Run the GUI.py file
